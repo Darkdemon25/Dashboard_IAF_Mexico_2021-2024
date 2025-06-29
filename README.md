@@ -1,6 +1,6 @@
 # 📊 Proyecto: Visualización y Análisis del Índice de Alfabetización Financiera en México
 
-Este repositorio tiene como objetivo desarrollar una **página web interactiva** alojada en GitHub Pages, que integre las siguientes funcionalidades:
+Este repositorio tiene como objetivo **implementar un dashboard interactivo en una página web** alojada en GitHub Pages, que integre las siguientes funcionalidades:
 
 ## 🔹 Funcionalidades del proyecto
 
